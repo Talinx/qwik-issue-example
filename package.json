@@ -40,5 +40,8 @@
     "undici": "*",
     "vite": "5.3.5",
     "vite-tsconfig-paths": "^4.2.1"
+  },
+  "dependencies": {
+    "peggy": "^4.1.1"
   }
 }
